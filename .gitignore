@@ -7,3 +7,7 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
+
+# NetBeans additional project files
+nb-configuration.xml
+nbactions.xml
